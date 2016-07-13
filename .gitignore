@@ -1,0 +1,8 @@
+/media
+/static
+/venv
+/.idea
+migrations/
+*.pyc
+*.py[cod]
+*.sql
